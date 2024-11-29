@@ -1,4 +1,4 @@
-**Project-Overview**
+#**Project-Overview**
 
 A brief introduction to the Food Expiration Alert System.
 Problem being solved: Food waste reduction.
